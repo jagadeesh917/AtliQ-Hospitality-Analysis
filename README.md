@@ -1,5 +1,5 @@
  
-Link to Interactive Dashboard : https://www.novypro.com/project/atliq-hospitality-revenue-analytics
+Link to Interactive Dashboard : (https://app.powerbi.com/reportEmbed?reportId=8f403ab3-d8a4-4d0b-b2f4-6be650572c20&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4)
 
 
 # AtliQ-Hospitality-Analysis
